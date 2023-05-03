@@ -23,7 +23,7 @@
 hs_err_pid*
 replay_pid*
 
-./nb_project
-/nb_project
+./nbproject
+/nbproject
 ./nbproject/*
 nbproject/*
